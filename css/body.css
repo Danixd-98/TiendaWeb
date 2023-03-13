@@ -1,4 +1,14 @@
+/*Estilo del parrafo inicial*/
 .parrafo-Inicial{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 1rem;
+    text-align: center;
     font-size: 3rem;
     color: brown;
+}
+/*Estilo de las imagenes puerconas xd*/
+.imagenes-puercas{
+    align-items: center;
+    width: .002rem;
+    height: .002rem;
 }
